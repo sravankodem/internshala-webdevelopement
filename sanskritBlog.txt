@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Favourite Superhero</title>
+    <link rel="stylesheet" type="text/css" href="cssEx.css">
+    <style>
+    .button{
+    color: #fff;
+    background-color: #3A8FBD;
+    padding:10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+    </style>
+  </head>
+  <body>
+    <p>Get ahead. Get an internship! Visit:</p>
+    <a href="http://internshala.com/" class="button" target="_blank">Internshala</a>
+  </body>
+</html>

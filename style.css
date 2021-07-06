@@ -1,0 +1,97 @@
+/*
+External CSS file
+*/
+
+body{
+		max-width:1000px;
+		margin:auto;
+		font-family: Roboto;
+		font-size:16px;
+}
+
+h4{
+	font: italic small-caps bolder 28px arial, sans-serif;
+}
+
+div{
+	border: 1px solid black;
+	margin-top: 5px;
+	padding: 20px;
+}
+
+#image{
+     float:left;
+     padding: 0px 20px 20px 20px;
+  }
+#identity{
+  overflow:auto;
+}
+#background-image{
+background-image:url("img/myimage.jpg");
+height:350px;
+padding-top: 50px;
+color: #fff;
+margin-top: 25px;
+}
+
+.thumbnail {
+    display: inline-block;
+
+    height: auto;
+
+    padding: 4px;
+
+    margin-bottom: 20px;
+
+    background-color: #fff;
+
+    border: 1px solid #a4a4a4;
+
+    text-align: center;
+
+    color: #666;
+
+    margin: 50px;
+
+}
+
+nav{
+ list-style-type: none;
+ margin: 0;
+ padding:0;
+}
+.sss1{
+  padding-left: 10px; 
+	padding-right: 20px; 
+	padding-top: 30px;
+  
+  }
+  .button{ 
+    margin: 10px; 
+  }
+
+  input {
+
+    padding: 14px 70px;
+
+    font-size: 15px;
+
+    margin-bottom: 30px;
+
+}
+
+#subscribe {
+
+    border: none;
+
+    background-color: #26211f;
+
+    color: white;
+
+    font-size: 16px;
+
+    margin: 4px -4px;
+
+    padding: 16px 40px;
+
+}
